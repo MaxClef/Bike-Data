@@ -46,3 +46,6 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
     * using pipe operators
     * creating contingency table
     * discriptive statistics
+  * GitHub Desktop
+    * puching files
+    * uploading R Markdown files to github repository
