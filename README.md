@@ -24,12 +24,12 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
    
    
 #### Files:
-  * SQL:
+  * SQL - https://github.com/MaxClef/Bike-Data/tree/main/SQL
     * Importing and Merging Tables 
     * Normalizing the Data - creating columns and tables with foreign and primary keys
     * Cleaning - removing potential error
     * Duration and Distance Calculation - calculating time of useage and distance based on the geolocation
-  * R:
+  * R - https://maxclef.github.io/Bike-Data/
     * Data Analysis
    
    
