@@ -23,6 +23,16 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
    * member_casual - type of mamber using the bike (member, casual)
    
    
+#### Files:
+  * SQL:
+    * Importing and Merging Tables 
+    * Normalizing the Data - creating columns and tables with foreign and primary keys
+    * Cleaning - removing potential error
+    * Duration and Distance Calculation - calculating time of useage and distance based on the geolocation
+  * R:
+    * Data Analysis
+   
+   
  #### Learning outcome:
  * SQL:
     * inporting/creating/deleting/ tables
