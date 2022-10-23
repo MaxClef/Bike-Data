@@ -22,7 +22,11 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
    * end_lng - ending longitude
    * member_casual - type of mamber using the bike (member, casual)
    
-   
+#### Data Base Diagram
+
+![BD Diagram for GitHub](https://user-images.githubusercontent.com/57497878/197395770-dd9a7236-2bd6-4e13-b20e-063d9a70b2f4.png)
+
+
 #### Files:
   * SQL - https://github.com/MaxClef/Bike-Data/tree/main/SQL
     * Importing and Merging Tables 
