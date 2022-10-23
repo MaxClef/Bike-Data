@@ -46,7 +46,7 @@ WHERE duration_minutes < 1;
 
 
 ----------------------------------------------------------------
--- Same start and end stations with duration under 3 minutes ---
+-- 2. Same start and end stations with duration under 3 minutes 
 ----------------------------------------------------------------
 
 -- checking how many instances meet the criteria
@@ -80,7 +80,7 @@ RETURNING *;
 
 
 -------------------------------------------------------------
-------  Where Speed Exceeds 20 miles per Hour  --------------
+------ 3. Where Speed Exceeds 20 miles per Hour  ------------
 -------------------------------------------------------------
 
 -- checking how many instances meet the criteria
