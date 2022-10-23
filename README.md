@@ -42,10 +42,10 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
    
  #### Learning outcome:
  * SQL:
-    * inporting/creating/deleting/ tables
+    * inporting/creating/deleting tables
     * normalizing the data in a database
     * making calculations on rows
-    * using JOIN/filtering data
+    * using JOIN/filtering tables
   * R:
     * connecting to database
     * mutating data frame
@@ -56,5 +56,5 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
   * Tableau:
     * creating location maps
   * GitHub Desktop
-    * puching files
+    * pushing files
     * uploading R Markdown files to github repository
