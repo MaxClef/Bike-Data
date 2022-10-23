@@ -31,6 +31,9 @@ The data belongs to divvy bike-sharing company for the location in Chicago: http
     * Duration and Distance Calculation - calculating time of useage and distance based on the geolocation
   * R - https://maxclef.github.io/Bike-Data-with-R-and-SQL/
     * Data Analysis
+  * Tableua:
+    * Starting stations by popularity - https://public.tableau.com/app/profile/maxim.clefos/viz/DIVVY-StartingStationbyPopularity/StartingstationsbyPopularity?publish=yes
+    * Ending stations by popularity - https://public.tableau.com/app/profile/maxim.clefos/viz/DIVVY-EndingStationbyPopularity/DestinationsbyPopularity?publish=yes
    
    
  #### Learning outcome:
