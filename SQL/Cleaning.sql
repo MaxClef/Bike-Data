@@ -17,15 +17,14 @@ Things to check:
 2.	Where the station is the same and the duration of the trip 
 	is shorter than 3 minutes. 
 	
-* Cycling speed:
+3. Cycling speed:
 "No person shall operate a bicycle at a speed greater than is reasonable
 and prudent under the conditions then existing."
 
 	Source: https://www.chicagobikelawfirm.com/blog/chicagos-bike-laws-all-in-one-place/
 
-1. 	where the speed exceeds 20 miles per hour (I think 20 miles per hour
+ 	Where the speed exceeds 20 miles per hour (I think 20 miles per hour
 	would be a maxium top speed for any cyclist in a city) 
-	Need to take into account if the person returned the bike to the same station.
 */
 
 
